@@ -1,6 +1,5 @@
-# Ruby on Rails Tutorial: sample application
+# Twitter Clone
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/)
+Project Period: 12th Feb,2016 - 7th Mar,2016
+
+Reference: [Rails Tutorial](http://www.railstutorial.org/)
